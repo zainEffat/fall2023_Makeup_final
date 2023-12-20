@@ -1,0 +1,53 @@
+---
+title: "final_makeup"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Import Required Packages
+```{r}
+
+```
+
+#Task0: import and join the datasets
+There are 5 different datasets about movies given to you in data folder. Check 
+them carefully and join them into one data frame
+```{r}
+
+```
+
+#Task 1
+Clean the data set by removing the missing values. 
+```{r}
+
+
+```
+
+#Task2
+Create two new features based on the existing data.
+```{r}
+
+```
+
+#Task 3
+based on the data frame that you have now, provide two plots that show the
+relation between some of the variables. Explain the insight that you get from
+each plot you create
+```{r}
+
+```
+
+#Task 4
+Utilizing caret package, train a machine learning model (such as random forest)
+to predict the movie rating based on the rest of the features. Follow the same 
+steps we did in the class and lab4
+```{r}
+
+```
+
+
+
